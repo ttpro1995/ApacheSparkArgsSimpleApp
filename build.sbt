@@ -1,4 +1,4 @@
-name := "Args Simple Project"
+name := "Args-Simple-Project"
 
 version := "1.0"
 
